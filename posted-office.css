@@ -44,18 +44,18 @@ a {
 }
 a:hover{
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 a img {
 	border: 0;
 }
 .forum_index tr td:nth-child(3n) a.tooltip:hover{
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 table tbody a, .main_column a, .sidebar a, .box a {
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 	-webkit-transition: color .25s ease-out;
     transition: color .25s ease-out;
 }
@@ -354,7 +354,7 @@ div#userinfo ul li {
 
 li#nav_subscriptions a {
     /*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 
 #userinfo img {
@@ -586,7 +586,7 @@ tr.colhead_dark td {
 }
 .forum_list a:hover,.forum_index a:hover {
     /*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 .forum_list .colhead td,.forum_index .colhead td {
     padding-top: 6px;
@@ -640,11 +640,11 @@ tr.colhead_dark td {
 }
 .group_torrent a:hover{
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 .tags a:hover {
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 
 .noborder {
@@ -702,7 +702,7 @@ table {
 }
 .colhead, .colhead_dark a:hover, .head a:hover{
 	/*color: #b39770;*/
-	color: #79c6c4;
+	color: #00FFFF;
 }
 .colhead a, .colhead_dark a, .head a {
 	color: #FBFCFD;
@@ -935,7 +935,7 @@ table.forum_unread {
 	border-top-width: 5px;
   border-top-style: solid;
 	/*border-color: #b39770;*/
-	border-color: #79c6c4;
+	border-color: #00FFFF;
 }
 
 td.avatar {
