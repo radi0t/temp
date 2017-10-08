@@ -61,14 +61,14 @@ table tbody a, .main_column a, .sidebar a, .box a {
 }
 
 table tbody a:hover, .main_column a:hover, .sidebar a:hover, .box a:hover {
-	color: #f7f7f7;
+	color: #ff9c4c;
 	-webkit-transition: color .25s ease-out;
     transition: color .25s ease-out;
 }
 
 #header a:hover, .linkbox a:hover {
 	/*text-decoration: underline;*/
-	color:#f7f7f7;
+	color:#ff9c4c;
 }
 
 a[onclick]:focus {
